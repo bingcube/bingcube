@@ -1,5 +1,5 @@
 
-Visitors:
+
 <img src="https://count.getloli.com/get/@:bingcube" alt="Server is down QAQ" />
 
 
